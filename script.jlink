@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "/home/aaron/Documents/MCUXpresso_11.7.0_9198/workspace/lpcxpresso55s69_host_hid_mouse_bm/Debug/lpcxpresso55s69_host_hid_mouse_bm.hex" 0x0 
+qc
+
+qc

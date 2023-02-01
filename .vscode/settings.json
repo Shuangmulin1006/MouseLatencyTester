@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "host_mouse.h": "c",
+        "fsl_power.h": "c",
+        "usb_phy.h": "c",
+        "fsl_common.h": "c"
+    }
+}
